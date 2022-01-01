@@ -1,0 +1,16 @@
+{
+        "sections" : [
+            {
+                "sec_name" : "statistics",
+                "contents" : ["chap1", "chap2"]
+            },
+            {
+                "sec_name" : "cultural",
+                "contents" : ["drawings", "crafts"]
+            }
+        ],
+        
+        "mainPages" : [
+            "Home", "About"
+        ]
+}
