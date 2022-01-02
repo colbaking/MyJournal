@@ -28,6 +28,7 @@ Handling interfaces okkay super simple aan. Njan ellam paranj tharam. Next day l
 just oru name set akkanam urgent ayit Ennale email id hosting okkay set aavu.
 
 NB: ithil ulla ella lettersum ellam litterally demo aan. :)
+**NB : It looks polier in Computer Screen**
 
 Anyway, can't you take it as a gift from me &#128513;
 
