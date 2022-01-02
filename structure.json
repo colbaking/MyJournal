@@ -2,11 +2,13 @@
         "sections" : [
             {
                 "sec_name" : "statistics",
-                "contents" : ["chap1", "chap2"]
+                "contents" : [["chap1","sdad"],
+                              ["chap2","dadasd"]]
             },
             {
                 "sec_name" : "cultural",
-                "contents" : ["drawings", "crafts"]
+                "contents" : [["drawings","dadasd"],
+                              ["crafts","asdasdas"]]
             }
         ],
         
