@@ -2,17 +2,28 @@
         "sections" : [
             {
                 "sec_name" : "statistics",
-                "contents" : [["chap1","sdad"],
-                              ["chap2","dadasd"]]
+                "contents" : [["chap1",         "sdad"],
+                              ["chap2",         "dadasd"]
+                             ]
             },
             {
                 "sec_name" : "cultural",
-                "contents" : [["drawings","dadasd"],
-                              ["crafts","asdasdas"]]
+                "contents" : [["drawings",      "dadasd"],
+                              ["crafts",        "asdasdas"]
+                             ]
             }
         ],
         
-        "mainPages" : [
-            "Home", "About"
-        ]
+        
+        "mainPages" : [    "Home", "About"      ],
+        
+        
+        
+        "otherTopics" : [["statistics",         "chap1",        "asdad"],
+                        ["cultural",            "crafts",       "asdasda"]
+                        ],
+
+        "otherTopicsName" : "Some other interesting topics",
+    
+        "fromAuth" :    ""
 }
