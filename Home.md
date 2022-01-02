@@ -7,7 +7,10 @@ This just a demo of the website designed specially for you. You could litterally
 The carzy part about this web site is that you could do edit and add contents by you own, in crazy simple way.
 
 just by creating such super simple markdown languages. No you could litterally add [links]("https://google.com") like this. pictures, 
-![My Neh](https://raw.githubusercontent.com/nehppumma/MyJournal/main/images/neh.jpg)
+
+<img src="https://raw.githubusercontent.com/nehppumma/MyJournal/main/images/neh.jpg" width="300">
+
+
 like this and litterally everything, a usual website could add.
 
 plus it's based own Single Page Apllication technics, that's also super capable of handling SEO, all designed by me Yeah &#128526; .
