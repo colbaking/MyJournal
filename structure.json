@@ -15,7 +15,7 @@
         ],
         
         
-        "mainPages" : [    "Home", "About"      ],
+        "mainPages" : [    "Home", "About" ,"contact"     ],
         
         
         
@@ -25,5 +25,5 @@
 
         "otherTopicsName" : "Some other interesting topics",
     
-        "fromAuth" :    ""
+        "fromAuth" :    "Happy new year!"
 }
